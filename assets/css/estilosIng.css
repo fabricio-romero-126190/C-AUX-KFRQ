@@ -1,0 +1,41 @@
+body{
+  font-family: Arial, sans-serif;
+  margin: 0;
+}
+
+header {
+  background: #855850;
+  color: black;
+  padding: 20px;
+  text-align: center;
+}
+
+.red{
+  background: #FAA18F;
+  margin-bottom: 10px;
+  padding: 10px;
+  color: blue;
+  border-radius: 10px;
+}
+
+h2, h4 {
+  border-bottom: 3px solid cyan; 
+  padding-bottom: 5px;
+  margin-top: 20px;
+}
+
+nav{
+  background: #E0FFFF;
+  padding: 15px;
+}
+
+ul, ol{
+  margin-left: 20px;
+}
+
+
+img{
+  margin-top: 10px;
+  border-radius: 10px;
+  width: 150px;
+}
