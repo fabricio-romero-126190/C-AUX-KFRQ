@@ -11,11 +11,10 @@ header {
 }
 
 .red{
-  background: #FAA18F;
+  background: #FAA18F; 
   margin-bottom: 10px;
   padding: 10px;
   color: blue;
-  border-radius: 10px;
 }
 
 h2, h4 {
