@@ -1,0 +1,15 @@
+header{
+  margin: 0;
+  padding: 0;}
+  .contenedor{
+  display:flex;
+  flex-direction: center;
+  justify-content: space-around;
+  background-color: cyan;
+  color:  violet;
+  gap: 100px;
+  ;
+}
+button{
+  padding: 10px;
+}
